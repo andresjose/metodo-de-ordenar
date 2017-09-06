@@ -1,0 +1,15 @@
+listaDesordenada = [54,26,93,17,77,31,44,55,20]
+listaDesordenada.sort()
+def ordenar(listaNumeros):
+  for passnum in range (len(listaNumeros)-1,0.1):
+    for i in range(passnum):
+      if listaNumeros[i]>listaNumeros[i+1]:
+        temp = listaNumeros[i]
+        listaNumeros[i] = listaNumeros[i+1]
+        listaNumeros[i] = temp
+"ordenar(listaDesordenada)"
+print(listaDesordenada)
+_____________________
+
+
+  ""jose agrega la linea 2"".
