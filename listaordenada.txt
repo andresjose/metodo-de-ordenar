@@ -9,7 +9,7 @@ def ordenar(listaNumeros):
         listaNumeros[i] = temp
 "ordenar(listaDesordenada)"
 print(listaDesordenada)
-_____________________
+_______________________________-
 
 
   ""jose agrega la linea 2"".
