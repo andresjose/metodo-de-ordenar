@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Consultor De Informacion Genaral De Usuarios</title>
+</head>
+<body>
+<h1>Consultor De Información</h1>
+<img>
+<p>Nombres:</p>
+<p>Apellidos:</p>
+<p>Edad:</p>
+<p>Ciudad:</p>
+<p>Celular:</p>
+<p>E-mail:</p>
+<p>Direccion:</p>
+<p>Descripciòn</p>
+</body>
+</html>
